@@ -1,0 +1,160 @@
+/*star of header*/
+
+header input 
+{	
+
+	
+	width: 7em;
+	height: 1,02px;
+	font-weight: bold;
+	color: white;
+	background-color: steelblue;
+	/*margin-right: 100px;*/
+	text-align: center;	
+	margin-bottom:-120px; 
+
+}
+
+
+span
+{
+	font-size: 12px;
+
+
+}
+
+
+/*end of header*/
+
+
+
+
+div
+{
+	text-align:right;
+	
+}
+
+
+.divdeux
+{
+	width: 50%;
+	font-weight: bold;
+	margin:auto;
+	text-align: center;
+	
+}
+
+.divdeux input
+{
+	width: 25%;
+	height: 12%;
+
+
+}	
+
+
+
+.img
+{
+	
+	
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 8em;
+	
+}
+
+
+
+/*Search area*/
+form, p
+{
+	
+	text-align: center;
+	margin-top:-1px;
+	
+
+/*Doit apporter une modification de cette valeur
+
+height: 40em;*/
+} 
+/*end of seach area*/
+
+
+
+
+/*Length and width of the search engine*/
+input
+{
+
+	height:3em;
+	width: 50%;
+	
+}
+/*end of Lenth and width of the search engine*/
+
+
+
+
+/*Footer*/
+
+
+footer
+{
+	/*margin-left: 27em;*/
+	width: 98%;
+
+   word-spacing: 35px;
+   padding-top: 28px;
+   position: absolute;
+   bottom: 0px;
+   margin-top: 2.5px;
+   background-color: #F5F5F5;
+
+}
+
+
+footer article
+{
+	display: inline-block;
+}
+
+
+
+
+.un
+{
+	float: left;
+}
+
+.deux
+{
+	float: right;
+   /*word-spacing: 35px;
+   padding-top: 28px;
+   /*position: absolute;*/
+   /*bottom: 0px;*/
+   /*margin-top: 2.5px;*/
+   /*background-color: #F5F5F5;*/
+
+}
+	
+
+
+
+
+
+/*End of footer*/
+
+
+
+
+
+
+
+
+
+
+
